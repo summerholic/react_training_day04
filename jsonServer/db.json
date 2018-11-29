@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "email": "hkkang@nextree.co.kr",
+        "name": "강형구",
+        "phone": "010-3210-0446",
+        "addresses": [
+          { "name": "집", "city": "Seoul", "zipCode": "12345" }
+        ]
+      },
+      {
+        "email": "cskim@test.co.kr",
+        "name": "김철수",
+        "phone": "010-1111-2222",
+        "addresses": [
+          { "name": "집", "city": "Seoul", "zipCode": "12345" },
+          { "name": "회사", "city": "Seoul", "zipCode": "22222" }
+        ]
+      }
+    ]
+  }
+  
